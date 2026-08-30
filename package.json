@@ -1,0 +1,13 @@
+{
+  "name": "twitter-video-telegram-bot",
+  "version": "1.0.0",
+  "description": "بوت تليجرام لتحميل فيديوهات تويتر/X عبر الرابط - يعمل على Vercel",
+  "main": "api/webhook.js",
+  "scripts": {
+    "set-webhook": "node scripts/set-webhook.js"
+  },
+  "dependencies": {
+    "telegraf": "^4.16.3",
+    "node-fetch": "^2.7.0"
+  }
+}
