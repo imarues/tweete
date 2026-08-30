@@ -1,7 +1,7 @@
 {
   "name": "twitter-video-telegram-bot",
-  "version": "1.0.0",
-  "description": "بوت تليجرام لتحميل فيديوهات تويتر/X عبر الرابط - يعمل على Vercel",
+  "version": "1.1.0",
+  "description": "بوت تليجرام لتحميل فيديوهات تويتر/X عبر مصادر عامة",
   "main": "api/webhook.js",
   "scripts": {
     "set-webhook": "node scripts/set-webhook.js"
